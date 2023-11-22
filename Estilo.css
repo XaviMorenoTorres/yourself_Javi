@@ -33,7 +33,7 @@ h2{
     text-align: center;
 }
 /*9. Haz que los elementos con clase `selectors`, que son los titulos de cada partido, esten `enmarcados con un borde de 5px color solid negro` y un `padding de 5%`*/
-.selectors{
+.selector{
     border: 5px black solid;
     padding: 5%;
 }
@@ -41,4 +41,7 @@ h2{
 ul{
     border: 3px solid blue ;
     padding: 5%;
+}
+img{
+    border-radius: 20px;
 }
